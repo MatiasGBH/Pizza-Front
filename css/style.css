@@ -85,18 +85,21 @@ nav a {
 .contenedor {
     display: flex;
     justify-content: space-between;
-    width: 300px;
+    width: 400px;
     flex-direction: row;
     margin-top: 60px;
     position: absolute;
     top: 30px;
-    left: 20%;
+    left: 10%;
     font-weight: 700;
     font-size: 16px;
 }
 
 .contenedor p {
     font-size: 20px;
+}
+.contenedor img{
+    align-self: center;
 }
 
 footer {
